@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello week1
+=======
+siuuuu
+>>>>>>> week1
